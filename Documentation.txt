@@ -1,0 +1,13 @@
+The Project codebase was constructed in fulfilment to the assigned project for the course COS 201: COMPUTER PROGRAMMING, and in partial fulfilment of the course bearing
+the same name.
+
+The project was undertaken by GROUP 3 of the department of computer science with the objective of creating a Java program that would be capable of converting a figure
+of temperature from CELSIUS to FARHENHEIT, and vice versa. the members of this group are listed below:
+
+Agu Franklin Nnamdi
+Anyanwu Charles Chikezie
+Chukwu Moses Chinelo
+Echewisi Chisom Joseph
+Ejike Mezie Aymar
+Ndedde Enobong Kingsley
+Kalu Victor 
