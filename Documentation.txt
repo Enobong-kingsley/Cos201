@@ -9,10 +9,10 @@ Ndedde Enobong Kingsley  2020/249822
 Echewisi Chisom Joseph   2020/241835
 Obiagboso Onyinye Christabel 2020/241381
 Odimegwu Ifechukwu Charles  2020/248333
-Agu Franklin Nnamdi 
+Agu Franklin Nnamdi  2020/248334
 Nwoji Odinakachukwu Echezona 2020/241840
 Ohanusi Favour Chinemezu   2020/241188
-Okoli Chisom Daniel     2020/245178
+Okoli Chisom Daniel    2020/245178
 Frank Franklin Okechukwu  2020/241828
 Ogah Uchenna Ernest   2020/246310
 Nwaroh Jeffery Nwadebechukwu  2018/249289
@@ -22,7 +22,11 @@ Ugwu Marylinda Onyinye    2020/243263
 Nwokocha Bethel Dan    2020/241098
 John-Chuku Emmanuel Chidera 2020/241837
 Chukwu Moses Chinelo  2020/241832
-Ifeanacho Faith Chinecherem  2020/24
+Ifeanacho Faith Chinecherem  2020/241838
 Opara Maryanne Uchechukwu  2020/243182
 Godswill Innocent Chisom  2020/24848
 Kalu Victor 
+Godswill Innocent Chisom 2020/248948
+Nnaemeka Emmanuel Chimelumma 2020/241847
+Onunkwo Ifeoma Anthonia 2020/241870
+Okenyeka Chijindu Ogochukwu 2020/241438
