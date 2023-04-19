@@ -1,5 +1,21 @@
-The Project codebase was constructed in fulfilment to the assigned project for the course COS 201: COMPUTER PROGRAMMING, and in partial fulfilment of the course bearing
-the same name.
+The first line of code specifies the package name as "com.example.group3project". This is used to organize related classes or code files in a specific directory.
 
-The project was undertaken by GROUP 3 of the department of computer science with the objective of creating a Java program that would be capable of converting a figure
-of temperature from CELSIUS to FARHENHEIT, and vice versa the project uses an Scanner statement to take user input and then further functionalities to work on the conversion process, i.e, the condition statements. 
+The code imports the Scanner class from the java.util package using the import statement. This class provides methods for reading user input from the console.
+
+The class "ToFahrenheitClass" is defined with the public access modifier. This means that it can be accessed from any other class or package.
+
+The "main" method is defined inside the "ToFahrenheitClass" class. This method is the entry point of the program and is executed when the program is run.
+
+Inside the "main" method, a Scanner object is created to read user input from the console.
+
+A prompt message is printed to the console asking the user to enter a temperature in Celsius.
+
+The nextDouble() method of the Scanner class is used to read a double value entered by the user.
+
+The Celsius temperature entered by the user is stored in the "celsius" variable.
+
+The formula for converting Celsius to Fahrenheit is then applied to the value of "celsius" and stored in the "fahrenheit" variable.
+
+The final output is printed to the console using the System.out.println() method. It displays the Celsius temperature entered by the user and the equivalent Fahrenheit temperature calculated using the formula.
+
+Overall, this code demonstrates the use of the Scanner class to read user input and basic arithmetic operations in Java. It can be used as a starting point for more complex temperature conversion programs.
