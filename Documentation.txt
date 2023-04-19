@@ -1,13 +1,28 @@
-The Project codebase was constructed in fulfilment to the assigned project for the course COS 201: COMPUTER PROGRAMMING, and in partial fulfilment of the course bearing
-the same name.
+the members of this group are listed below:
 
-The project was undertaken by GROUP 3 of the department of computer science with the objective of creating a Java program that would be capable of converting a figure
-of temperature from CELSIUS to FARHENHEIT, and vice versa. the members of this group are listed below:
 
-Agu Franklin Nnamdi
-Anyanwu Charles Chikezie
-Chukwu Moses Chinelo
-Echewisi Chisom Joseph
-Ejike Mezie Aymar
-Ndedde Enobong Kingsley
+Ndedde Enobong Kingsley  2020/249822
+Echewisi Chisom Joseph   2020/241835
+Obiagboso Onyinye Christabel 2020/241381
+Odimegwu Ifechukwu Charles  2020/248333
+Agu Franklin Nnamdi  2020/248334
+Nwoji Odinakachukwu Echezona 2020/241840
+Ohanusi Favour Chinemezu   2020/241188
+Okoli Chisom Daniel    2020/245178
+Frank Franklin Okechukwu  2020/241828
+Ogah Uchenna Ernest   2020/246310
+Nwaroh Jeffery Nwadebechukwu  2018/249289
+Anyanwu Charles Chikezie  2020/241382
+Eze Pleasant Onyedikachi  2020/241096
+Ugwu Marylinda Onyinye    2020/243263
+Nwokocha Bethel Dan    2020/241098
+John-Chuku Emmanuel Chidera 2020/241837
+Chukwu Moses Chinelo  2020/241832
+Ifeanacho Faith Chinecherem  2020/241838
+Opara Maryanne Uchechukwu  2020/243182
+Godswill Innocent Chisom  2020/24848
 Kalu Victor 
+Godswill Innocent Chisom 2020/248948
+Nnaemeka Emmanuel Chimelumma 2020/241847
+Onunkwo Ifeoma Anthonia 2020/241870
+Okenyeka Chijindu Ogochukwu 2020/241438
